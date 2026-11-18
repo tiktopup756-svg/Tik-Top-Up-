@@ -6,7 +6,7 @@ var website_name = "Tik Top Up";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var whatsapp_channel_link = "https://whatsapp.com/channel/0029Vb9BvkV4Y9lfupWhqs0F";
 
 // =======================================================
 // TELEGRAM GROUP LINK
